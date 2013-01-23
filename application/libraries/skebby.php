@@ -9,7 +9,7 @@ define("SMS_TYPE_BASIC", "basic");
 
 class Skebby {
 
-    protected $_url = 'http://gateway.skebby.it/api/send/smseasy/advanced/http.php';
+    protected $_url = 'https://gateway.skebby.it/api/send/smseasy/advanced/http.php';
     protected $_username = 'username';
     protected $_password = 'password';
     
