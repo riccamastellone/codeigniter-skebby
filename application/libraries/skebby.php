@@ -3,9 +3,6 @@
 if (!defined('BASEPATH'))
     exit('No direct script access allowed');
 
-define("SMS_TYPE_CLASSIC", "classic");
-define("SMS_TYPE_CLASSIC_PLUS", "classic_plus");
-define("SMS_TYPE_BASIC", "basic");
 
 class Skebby {
 
